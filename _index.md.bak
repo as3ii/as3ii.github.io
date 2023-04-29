@@ -1,0 +1,36 @@
+---
+title: "Lorenzo's Portfolio"
+date: 29.04.2023
+copyright: "Lorenzo Debertolis"
+
+socialhandles:
+    github: "as3ii"
+
+intro:
+    header: "Lorenzo Debertolis"
+    text: "Student in Computer Science and Engineering, radioamateur, linux user, tech enthusiast"
+
+about:
+    header: "About Lorenzo"
+#    text: '<p>life</p><p>work</p><p>hobby</p>'
+    text: >
+        <p>Hi, I'm a student worker, passionate science and technology.</p>
+        <p>I'm studying Computer Science and Engineering at University of Bologna,
+        I attended Information and Communications Engineering at University of
+        Trento, and I'm working part-time as sysadmin/developer/IT help desk for a
+        small company. In my free time I usually listen a lot of music, read tecnical
+        articles, novels and comics and I experiment with single board computers, the
+        linux ecosystem in general, and with ham radio stuff
+        </p>
+
+#download:
+#    rename: "Keybase"
+#    header: "My cryptographic identity"
+#    text: '<p>You can check my cryptographic identity visiting my keybase profile<p>'
+
+contact:
+    header: "Contacts"
+    text: >
+        <p>mail: debertolis dot lorenzo at gmail dot com</p>
+        <p><a href="https://telegram.me/as3ii" class="btn btn-default btn-lg">TELEGRAM</a></p>
+---
